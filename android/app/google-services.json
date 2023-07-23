@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "578910368059",
+    "project_id": "property-advisor-76ccd",
+    "storage_bucket": "property-advisor-76ccd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578910368059:android:9a2ae4f59a1b01b39f071e",
+        "android_client_info": {
+          "package_name": "com.propertyadvisorapp.propertyadvisor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "578910368059-7df6982s73kcu2j6duv21r01c1favtck.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtsK_c8dXOOp1m4R5ugI04L_rOPA8VoBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "578910368059-7df6982s73kcu2j6duv21r01c1favtck.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
